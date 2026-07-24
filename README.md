@@ -1,6 +1,6 @@
 # Hey, I'm João Travanca
 
-42 Lisboa student building a foundation in C and Python, actively looking 
+42 Lisboa student building a foundation in C and Python, looking 
 for junior developer opportunities in Lisbon.
 Currently working through Python OOP at 42 Lisboa
 
