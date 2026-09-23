@@ -1,8 +1,7 @@
 # Hey, I'm João Travanca
 
-42 Lisboa student building a foundation in C and Python, looking 
-for junior developer opportunities in Lisbon.
-Currently working through Python OOP at 42 Lisboa
+
+Currently working through Python OOP.
 
 ## What I work with
 
@@ -26,8 +25,7 @@ Currently working through Python OOP at 42 Lisboa
   for later 42 projects.. [Project page](https://github.com/JoaoTravanca/42_libft)
 
 ## Get in touch
-
-[LinkedIn](link) · [Email](mailto:joaotptravanca@gmail.com)
+ [Email](mailto:joaotptravanca@gmail.com)
 
 
 ## Github Status
