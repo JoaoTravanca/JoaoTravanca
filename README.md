@@ -1,7 +1,7 @@
 # Hey, I'm João Travanca
 
 
-Currently working through Python OOP.
+Currently working through Java and SQL.
 
 ## What I work with
 
